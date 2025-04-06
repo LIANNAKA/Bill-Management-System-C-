@@ -27,10 +27,12 @@ The system calculates the total amount dynamically.
 The final bill is displayed to the user.
 
 Displaying Bills:
+
 The system lists all generated bills.
 Each bill shows the items, prices, and total cost.
 
 Deleting a Bill:
+
 Users can delete unwanted bills from the system.
 Technologies & Concepts Used C++ Programming – Core logic and implementation.
 Object-Oriented Programming (OOP) – Classes (Product, Bill, BillManagementSystem) ensure structured management.
